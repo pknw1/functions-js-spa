@@ -17,7 +17,7 @@
             "matchCondition": {
                 "route": "/"
             },
-            "backendUri": "%STORAGE_URL_AND_CONTAINER%/functions-rock-even-more.html"
+            "backendUri": "https://www.pknw1.co.uk"
         }
     }
 }
