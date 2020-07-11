@@ -7,6 +7,12 @@
             },
             "backendUri": "https://%WEBSITE_HOSTNAME%/api/GetFunctionLogo"
         },
+        "Pknw1": {
+            "matchCondition": {
+                "route": "/pknw1"
+            },
+            "backendUri": "https://www.pknw1.co.uk"
+        },
         "Root": {
             "matchCondition": {
                 "route": "/"
